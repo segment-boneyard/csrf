@@ -1,0 +1,13 @@
+{
+  "name": "csrf",
+  "repo": "segmentio/csrf",
+  "description": "Automatically fill a form's CSRF field.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": ["form", "fill", "csrf"],
+  "development": {
+    "component/assert": "*",
+    "component/domify": "*"
+  },
+  "scripts": ["index.js"]
+}
